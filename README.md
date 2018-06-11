@@ -7,11 +7,15 @@ I'm a full-stack software developer with a passion for cutting edge technology a
  ## Projects
  | Project       | Summary       | Technologies  | Testing |
  | ------------- |---------------| --------------|---------|
- | 1. Boris Bikes ([Discover More](https://github.com/Mozl/boris_bikes)) | My first week of coding at Makers Academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
- | 2. Oyster Card ([Discover More](https://github.com/Mozl/oyster-card))|Ever wondered what it would be like to travel around London without anyone else around? Now you can!...well, via the CLI at least! | Ruby | RSpec |
- | 3. Thermostat ([Discover More](https://github.com/Mozl/thermostat))| Made in my 1st week of learning JavaScript. Uses JS logic, jQuery animation and live weather from an API | Javascript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
- | 4. Acebook ([Discover More](https://acebook-byte-2.herokuapp.com))|4 devs. 2 weeks. Rebuild a website with over 2 billion users. Bonus: Don't sell personal user data. Challenge accepted!|Ruby on Rails, Bootstrap|RSpec|
- |5. Final Project ([Discover More](INSERT URL)|Whatever it will be, it's going to be LEGEN....wait for it....DARY!)|Cool tech and stuff|TDD n ting|
+|1. MixMakers ([Discover More](https://github.com/Mozl/MixMakers)|Cocktail app for iOS. Add ingredients you have and find delicious cocktails that contain those ingredients.|Swift, XCode, TheCocktailDB API|Quick, Nimble, FBSnapshotTestCase|
+| 2. Acebook ([Discover More](https://acebook-byte-2.herokuapp.com))|4 devs. 2 weeks. Rebuild a website with over 2 billion users. Bonus: Don't sell personal user data. Challenge accepted!|Ruby on Rails, Bootstrap|RSpec|
+| 3. Thermostat ([Discover More](https://github.com/Mozl/thermostat))| Made in my 1st week of learning JavaScript. Uses JS logic, jQuery animation and live weather from an API | Javascript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
+| 4. Oyster Card ([Discover More](https://github.com/Mozl/oyster-card))|Ever wondered what it would be like to travel around London without anyone else around? Now you can!...well, via the CLI at least! | Ruby | RSpec |
+| 5. Boris Bikes ([Discover More](https://github.com/Mozl/boris_bikes)) | My first week of coding at Makers Academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
+
+
+
+
 
 ## Experience
 
@@ -38,13 +42,13 @@ Working on a major accounting software company client, I was responsible for the
 
 #### Makers Academy (March - June 2018)
 
-- Ruby and JavaScript - including Node, Express, Rails, jQuery, Sinatra
-- Test-driven development (TDD) - RSpec, Jasmine, Cypress, Capybara
+- Ruby, JavaScript, Swift - including Node, Express, Rails, jQuery, Sinatra, XCode
+- Test-driven development (TDD) - RSpec, Jasmine, Cypress, Capybara, Quick & Nimble
 - Agile working
 - Pair programming
-- Git workflow
+- Git versioning workflow
 - XP Values
-- React
+- ReactJS
 - HTML, CSS, Bootstrap
 - Databases - PostgreSQL, MongoDB
 - Deployment - Heroku, TravisCI, Docker
