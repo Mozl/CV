@@ -2,12 +2,16 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education)
 
+### Get in touch
+
+<a href="https://www.linkedin.com/in/lmoselhi/"><img src="logos/linkedin.png" width="50"></a>
+
 I'm a full-stack software developer with a passion for cutting edge technology and an unquenchable thirst for knowledge. I have a particular interest in bots and automation. I am studying at Makers Academy, an intensive coding bootcamp in London, growing not just my technical skills, but also my teamwork and communication skills. I am looking for a full stack or front-end role where I can apply and grow my skillset while having fun with my team.
 
  ## Projects
  | Project       | Summary       | Technologies  | Testing |
  | ------------- |---------------| --------------|---------|
-|1. MixMakers ([Discover More](https://github.com/Mozl/MixMakers)|Cocktail app for iOS. Add ingredients you have and find delicious cocktails that contain those ingredients.|Swift, XCode, TheCocktailDB API|Quick, Nimble, FBSnapshotTestCase|
+|1. MixMakers ([Discover More](https://github.com/Mozl/MixMakers))|Cocktail app for iOS. Add ingredients you have and find delicious cocktails that contain those ingredients. See the presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTMyvUhENPe4UgHeDfgfEBDfvrtsx-4iKZK8yOGOzHRLZE7X_JmjZE_bNlNDL_W4kV-Tx-TmtTBZpw8/pub?start=false&loop=false&delayms=10000&slide=id.g3bc3fbc64e_5_16).|Swift, XCode, TheCocktailDB API|Quick, Nimble, FBSnapshotTestCase|
 | 2. Acebook ([Discover More](https://acebook-byte-2.herokuapp.com))|4 devs. 2 weeks. Rebuild a website with over 2 billion users. Bonus: Don't sell personal user data. Challenge accepted!|Ruby on Rails, Bootstrap|RSpec|
 | 3. Thermostat ([Discover More](https://github.com/Mozl/thermostat))| Made in my 1st week of learning JavaScript. Uses JS logic, jQuery animation and live weather from an API | Javascript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
 | 4. Oyster Card ([Discover More](https://github.com/Mozl/oyster-card))|Ever wondered what it would be like to travel around London without anyone else around? Now you can!...well, via the CLI at least! | Ruby | RSpec |
